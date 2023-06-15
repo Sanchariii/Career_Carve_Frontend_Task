@@ -4,7 +4,7 @@
 # Introduction:
 
 
-This is a frontend task given by CareerCarve which states that:
+This is a frontend task is given by CareerCarve which states that:
 A user can manage the names, order and presence of sections on their resume using this Resume Builder page.
 
 There is a master list of sections allowed on the resume. This list is shown in the design. The user can perform the following actions:
