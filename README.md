@@ -7,16 +7,19 @@
 This is a frontend task is given by CareerCarve which states that:
 A user can manage the names, order and presence of sections on their resume using this Resume Builder page.
 
-There is a master list of sections allowed on the resume. This list is shown in the design. The user can perform the following actions:
-1.Drag drop the section to indicate the order in which the sections should be shown on their resumes. Animation is required to show the user which section is being moved where button should be used to drag drop.
+There is a master list of sections allowed on the resume. This list is shown in the design. The user can perform some actions mentioned below.
 
-2.An edit button allows the user to change the name of the section.
+# Actions:
 
-3.The toggle button allows the user to switch a section on or off enabling the user display/ not display that section on the resume.
+1. Drag drop the section to indicate the order in which the sections should be shown on their resumes. Animation is required to show the user which section is being moved where button should be used to drag drop.
 
-4.The save button should be enabled only if the user has changed something.
+2. An edit button allows the user to change the name of the section.
 
-5.Clicking on button shows a description of the section.
+3. The toggle button allows the user to switch a section on or off enabling the user display/ not display that section on the resume.
+
+4. The save button should be enabled only if the user has changed something.
+
+5. Clicking on button shows a description of the section.
 
 # Available Scripts
 
